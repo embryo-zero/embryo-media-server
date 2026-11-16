@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Media Server
+
+**Embryo Media Server** is Embryo-Zero's fork of [jellyfin](https://github.com/jellyfin/jellyfin), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <h1 align="center">Jellyfin</h1>
 <h3 align="center">The Free Software Media System</h3>
 
